@@ -1,4 +1,4 @@
 # Raspberry-Pi-IR-GPIO-Controll
-controlling Rpi GPIO using IR sensor
+Controlling RPi GPIO using IR sensor
 
 
